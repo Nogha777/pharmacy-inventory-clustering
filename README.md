@@ -64,6 +64,7 @@ Visual Separation   : Clear  → Clusters are real ✅
 
 # Author
 Norah Nasser
-Pharmacist | Healthcare Data Scientist
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/norah-altuwayli-432922167)
+Pharmacist | Healthcare Data Scientist | Health Informtics Master Student
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://www.linkedin.com/in/norah-altuwayli-432922167)
+
 
