@@ -1,0 +1,14 @@
+Item number,Sum of Total available,Total Sold Q 180d,Sell Through Rate,Overstock Ratio,Days of Supply,Type_ACT,Type_CHR,Type_OTC,Cluster,Cluster Label
+ITEM_0001,1.0,1.0,1.0,1.0,180.0,0,0,1,0,Overstock
+ITEM_0002,2.0,2.0,1.0,1.0,180.0,0,0,1,0,Overstock
+ITEM_0003,5.0,1.0,0.0,5.0,900.0,0,0,1,0,Overstock
+ITEM_0004,5.0,5.0,1.0,1.0,180.0,0,0,1,0,Overstock
+ITEM_0005,4.0,9.0,2.0,0.0,80.0,0,0,1,0,Overstock
+ITEM_0006,38.0,52.0,1.0,1.0,132.0,0,0,1,1,Healthy Sellers
+ITEM_0007,21.0,51.0,2.0,0.0,74.0,0,0,1,1,Healthy Sellers
+ITEM_0008,41.0,77.0,2.0,1.0,96.0,0,0,1,1,Healthy Sellers
+ITEM_0009,18.0,48.0,3.0,0.0,68.0,0,0,1,1,Healthy Sellers
+ITEM_0010,23.0,35.0,2.0,1.0,118.0,0,0,1,1,Healthy Sellers
+ITEM_0011,121.0,152.0,1.0,1.0,143.0,0,0,1,2,Bulk Products
+ITEM_0012,136.0,311.0,2.0,0.0,79.0,0,0,1,2,Bulk Products
+ITEM_0013,129.0,144.0,1.0,1.0,161.0,0,0,1,2,Bulk Products
